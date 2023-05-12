@@ -1,0 +1,5 @@
+﻿  Lb3.cpp
+C:\Users\Олег\OneDrive\Рабочий стол\Лаби\Lab3\Lb3\Lb3\Lb3.cpp(35,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Олег\OneDrive\Рабочий стол\Лаби\Lab3\Lb3\Lb3\Lb3.cpp(88,21): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Олег\OneDrive\Рабочий стол\Лаби\Lab3\Lb3\Lb3\Lb3.cpp(89,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Lb3.vcxproj -> C:\Users\Олег\OneDrive\Рабочий стол\Лаби\Lab3\Lb3\x64\Debug\Lb3.exe
